@@ -1,1 +1,7 @@
-
+Nathan Fitzgerald 
+Data normalization from what I can tell is a system of simplifying large amounts of similar data 
+so that it is more quickly accessible.  It does this by organizing a database in a way that minimizes 
+redundancy.  An example of this would be a language translator using a list of common words to deduct 
+what language you are speaking rather than trying to search through every word in every language.  I 
+think a great way data normalization could be used would be to find some way to translate spoken 
+English into different types of code. 
